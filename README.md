@@ -1,5 +1,13 @@
 # CS331 Single Image Deraining
 
+## 👥 Group Members  
+
+- Hồng Phúc Hải  
+- Đinh Tuệ Đức  
+- Huỳnh Đăng Khoa
+
+---
+
 ## Introduction
 
 This project focuses on removing rain streaks from a single image. It aims to enhance image quality by eliminating rain streak noise, which is essential for improving visual clarity in various applications such as surveillance, autonomous driving, and outdoor photography.
@@ -72,9 +80,10 @@ The project includes a demonstration of the models' performance on test images. 
 
 ## References
 
-- **Restormer**: *A Transformer-Based Model for Image Restoration.*  
-- **PReNet**: *Progressive Recurrent Network for Single Image Deraining.*  
-- **Pix2Pix**: *Image-to-Image Translation with Conditional Adversarial Networks.*  
+- **Restormer**: [paper]*Restormer: Efficient transformer for high-resolution image restoration.*  
+- **PReNet**: [paper]*Progressive Image Deraining Networks: A Better and Simpler Baseline.*  
+- **Pix2Pix**: [paper]*Image-to-Image Translation with Conditional Adversarial Networks.*
+- **Dataset**: [paper]*Multi-Scale Progressive Fusion Network for Single Image Deraining.*  
 
 ## Contact
 
