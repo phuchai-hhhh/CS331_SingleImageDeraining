@@ -90,8 +90,8 @@ This project explores three deep learning-based approaches for image deraining:
   </tr>
   <tr>
     <td><img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/82db348ecea00af4a37b49bb69621623d985d081/Restormer_output.jpg" width="300"></td>
-    <td><img src="path_to_your_image/pix2pix_prediction.png" width="300"></td>
-    <td><img src="path_to_your_image/prenet_prediction.png" width="300"></td>
+    <td><img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/705a94de24755730a67dca6c0770b916665c8a5e/Pix2Pix_output.jpg" width="300"></td>
+    <td><img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/705a94de24755730a67dca6c0770b916665c8a5e/PReNet_output.jpg" width="300"></td>
   </tr>
 </table>
 
