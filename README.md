@@ -76,7 +76,23 @@ This project explores three deep learning-based approaches for image deraining:
 
 ## Demo
 
-The project includes a demonstration of the models' performance on test images. Sample outputs and comparisons are provided.
+**Input Image**
+<img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/c663df4b41b43a1bc885fe84e7ca353f7e951dae/Input_image.jpg" width="600">
+
+**Model Predictions**
+
+<table>
+  <tr>
+    <th>Restormer Prediction</th>
+    <th>Pix2Pix Prediction</th>
+    <th>PReNet Prediction</th>
+  </tr>
+  <tr>
+    <td><img src="path_to_your_image/restormer_prediction.png" width="300"></td>
+    <td><img src="path_to_your_image/pix2pix_prediction.png" width="300"></td>
+    <td><img src="path_to_your_image/prenet_prediction.png" width="300"></td>
+  </tr>
+</table>
 
 ## References
 
