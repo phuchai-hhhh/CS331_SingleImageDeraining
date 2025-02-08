@@ -77,6 +77,7 @@ This project explores three deep learning-based approaches for image deraining:
 ## Demo
 
 **Input Image**
+
 <img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/c663df4b41b43a1bc885fe84e7ca353f7e951dae/Input_image.jpg" width="600">
 
 **Model Predictions**
@@ -88,7 +89,7 @@ This project explores three deep learning-based approaches for image deraining:
     <th>PReNet Prediction</th>
   </tr>
   <tr>
-    <td><img src="path_to_your_image/restormer_prediction.png" width="300"></td>
+    <td><img src="https://github.com/phuchai-hhhh/CS331_SingleImageDeraining/blob/82db348ecea00af4a37b49bb69621623d985d081/Restormer_output.jpg" width="300"></td>
     <td><img src="path_to_your_image/pix2pix_prediction.png" width="300"></td>
     <td><img src="path_to_your_image/prenet_prediction.png" width="300"></td>
   </tr>
